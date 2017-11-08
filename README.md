@@ -1,2 +1,7 @@
-# coconut-project-template
-Simple template for coconut based projects
+# $(ProjectName)
+$(ProjectDescription)
+
+# Install
+```
+npm install
+```
